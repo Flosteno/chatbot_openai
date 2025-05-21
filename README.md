@@ -15,3 +15,7 @@ Ask the model babbage-002 to list the ingredients of a recipe
 ### chatbot_chat.rb
 
 Converse with the model gpt-3.5-turbo-instruct with a code to retain history of the conversation
+
+## Technologies
+
+- Ruby
